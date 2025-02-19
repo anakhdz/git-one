@@ -1,5 +1,5 @@
-a = 'Spatial'
+a = 'Spatial '
 b = 'Cover'
-c = a +' '+ b
+c = a + b
 
 print(c)
