@@ -1,4 +1,4 @@
-#First git project
+# Project made to practice Git
 
 Currently a WIP in how to use git
 
