@@ -5,3 +5,6 @@ Currently a WIP in how to use git
 Add more information below
 
 This project contains three files: 2 TXT files and one PY file.
+- file-one.txt
+- file-two.txt
+- file-three.py
