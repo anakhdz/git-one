@@ -1,5 +1,6 @@
 a = 'Spatial'
 b = 'Cover'
-c = a +' '+ b
+
+c = ' '.join([a, b])
 
 print(c)
